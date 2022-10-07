@@ -52,3 +52,4 @@ C:\Users\tayja\Desktop\webService\Medals-API\obj\Debug\net5.0\refint\Medals-API.
 C:\Users\tayja\Desktop\webService\Medals-API\obj\Debug\net5.0\Medals-API.pdb
 C:\Users\tayja\Desktop\webService\Medals-API\obj\Debug\net5.0\Medals-API.genruntimeconfig.cache
 C:\Users\tayja\Desktop\webService\Medals-API\obj\Debug\net5.0\ref\Medals-API.dll
+C:\Users\tayja\Desktop\webService\Medals-API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
